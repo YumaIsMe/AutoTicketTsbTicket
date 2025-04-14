@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Click Create Ticket Button with Ticket Limit
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.0.0
 // @description  Auto-clicks 'Create ticket' unless 3 or more ticket channels exist
 // @author       Yui
 // @match        *://*/*
